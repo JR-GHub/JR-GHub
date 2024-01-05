@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Jerome
+- 👀 I’m interested in software development, data science, AI/ML, NLP, cyber security
+- 🌱 I’m currently learning software development and data science
+- 📫 How to reach me rameyjerome.dev@gmail.com
